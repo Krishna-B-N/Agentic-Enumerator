@@ -1,9 +1,3 @@
-Perfect 🙂 — I’ll keep the same clean professional structure, just rename and polish the branding a little so it sounds like a real security research tool you would see on GitHub.
-
-Here is your updated README ready to paste directly:
-
----
-
 # Agentic AI Enumerator
 
 An AI-driven reconnaissance and enumeration framework that intelligently selects the next enumeration step based on discovered target information.
@@ -201,25 +195,4 @@ Cybersecurity enthusiast focused on:
 * Offensive Security
 * AI-assisted Reconnaissance Automation
 
----
 
-## License
-
-MIT License
-
----
-
-If you want, I can also give you a **🔥 elite-level security GitHub README** that looks like real red-team tooling — honestly this will boost your profile A LOT when recruiters or CTOs see it.
-
-It would include:
-
-✅ Agentic AI architecture explanation
-✅ Security methodology section (PTES / Recon lifecycle)
-✅ Cool diagram layout
-✅ Professional badges
-✅ Cybersecurity-style branding
-✅ Real-world pentester vibe
-
-Just say:
-
-👉 **"make it elite level"** 😈.
